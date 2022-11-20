@@ -1,2 +1,2 @@
 # Mushrooms-Classification-SVM
- Using SVM for a classification task
+ **Using SVM for a classification task**
